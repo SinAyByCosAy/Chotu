@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:viewportWidth="442"
+    android:viewportHeight="442"
+    android:width="442dp"
+    android:height="442dp">
+    <path
+        android:pathData="M171 336l-101 0c-5.523 0 -10 4.477 -10 10 0 5.523 4.477 10 10 10l101 0c5.523 0 10 -4.477 10 -10 0 -5.523 -4.477 -10 -10 -10z"
+        android:fillColor="@color/featText" />
+    <path
+        android:pathData="M322 336l-101 0c-5.523 0 -10 4.477 -10 10 0 5.523 4.477 10 10 10l101 0c5.522 0 10 -4.477 10 -10 0 -5.523 -4.478 -10 -10 -10z"
+        android:fillColor="@color/featText" />
+    <path
+        android:pathData="M322 86L70 86c-5.523 0 -10 4.477 -10 10 0 5.523 4.477 10 10 10l252 0c5.522 0 10 -4.477 10 -10 0 -5.523 -4.478 -10 -10 -10z"
+        android:fillColor="@color/featText" />
+    <path
+        android:pathData="M322 136l-101 0c-5.523 0 -10 4.477 -10 10 0 5.523 4.477 10 10 10l101 0c5.522 0 10 -4.477 10 -10 0 -5.523 -4.478 -10 -10 -10z"
+        android:fillColor="@color/featText" />
+    <path
+        android:pathData="M322 186l-101 0c-5.523 0 -10 4.477 -10 10 0 5.523 4.477 10 10 10l101 0c5.522 0 10 -4.477 10 -10 0 -5.523 -4.478 -10 -10 -10z"
+        android:fillColor="@color/featText" />
+    <path
+        android:pathData="M322 236l-101 0c-5.523 0 -10 4.477 -10 10 0 5.523 4.477 10 10 10l101 0c5.522 0 10 -4.477 10 -10 0 -5.523 -4.478 -10 -10 -10z"
+        android:fillColor="@color/featText" />
+    <path
+        android:pathData="M322 286l-101 0c-5.523 0 -10 4.477 -10 10 0 5.523 4.477 10 10 10l101 0c5.522 0 10 -4.477 10 -10 0 -5.523 -4.478 -10 -10 -10z"
+        android:fillColor="@color/featText" />
+    <path
+        android:pathData="M171 286l-101 0c-5.523 0 -10 4.477 -10 10 0 5.523 4.477 10 10 10l101 0c5.523 0 10 -4.477 10 -10 0 -5.523 -4.477 -10 -10 -10z"
+        android:fillColor="@color/featText" />
+    <path
+        android:pathData="M171 136l-101 0c-5.523 0 -10 4.477 -10 10l0 101c0 5.523 4.477 10 10 10l101 0c5.523 0 10 -4.477 10 -10l0 -101c0 -5.523 -4.477 -10 -10 -10zm-10 101l-81 0 0 -81 81 0 0 81z"
+        android:fillColor="@color/featText" />
+    <path
+        android:pathData="M422 76l-30 0 0 -30C392 34.972 383.028 26 372 26L20 26C8.972 26 0 34.972 0 46l0 320c0 27.57 22.43 50 50 50l342 0c27.57 0 50 -22.43 50 -50l0 -270c0 -11.028 -8.972 -20 -20 -20zm0 290c0 16.542 -13.458 30 -30 30L50 396C33.458 396 20 382.542 20 366l0 -320 352 0 0 305c0 13.785 11.215 25 25 25 5.522 0 10 -4.477 10 -10 0 -5.523 -4.478 -10 -10 -10 -2.757 0 -5 -2.243 -5 -5l0 -255 30 0 0 270z"
+        android:fillColor="@color/featText" />
+</vector>

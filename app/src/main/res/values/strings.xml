@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chhotu</string>
+    <string name="blind">I\'m Blind\nPlease Provide Camera Permission</string>
+</resources>
